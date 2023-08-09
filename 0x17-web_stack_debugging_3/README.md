@@ -1,0 +1,2 @@
+# 0x17. Web stack debugging #3
+This task was part of a series of web stack debugging projects. Each project involved troubleshooting and rectifying issues within malfunctioning web stacks housed in isolated containers. My responsibility was to restore these web stacks to operational conditions. To accomplish this, I created automated scripts that executed the required commands, systematically resolving the problems in each project.
